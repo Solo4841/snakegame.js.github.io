@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to bottom right, green, rgb(115, 255, 0));
+    background-repeat: no-repeat;
+    height: 96vh;
+}
+.canvas{
+    background-color: black;
+    margin:20px 30px;
+    color: yel;
+} 
